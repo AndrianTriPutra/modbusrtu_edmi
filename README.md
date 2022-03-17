@@ -1,4 +1,4 @@
-# go-modbusRTU-powermeter EDMI
+# [golang] modbusrtu-powermeter EDMI
 
 step by step
 1. setting your powermeter
